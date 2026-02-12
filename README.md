@@ -1,4 +1,4 @@
-# Cote-bench
+# Novel Understanding Bench(Personal)
 personal benchmark on Evaluating Long(1 million) Context Understanding Using Long Novel Comprehension
 
 Analyse novel(=new) novels. Problems are designed as soon as new chapters are released. Context Length=500-1000k.
