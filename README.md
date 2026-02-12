@@ -13,14 +13,19 @@ Previously only Gemini has 1M context length, now deepseek also offers its 1M co
 # Model-based methods:
 
 Gemini 3 Pro: 12
+
 Deepseek V4 Lite: 10
+
 Gemini 3 Flash: 9
+
 Gemini 2.5 Pro: 5
 
 # Agent-based methods:
 
 Manus: 1
+
 Minimax 2.5 agent: 0
+
 Kimi 2.5 Agent Swarm: 0
 
 
