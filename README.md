@@ -1,4 +1,5 @@
-# Novel Understanding Bench(Personal)
+# 1M Novel Understanding Bench(Personal)
+
 personal benchmark on Evaluating Long(1 million) Context Understanding Using Long Novel Comprehension
 
 Analyse novel(=new) novels. Problems are designed as soon as new chapters are released. Context Length=500-1000k.
@@ -6,7 +7,9 @@ Manual Evaluation for personal interest. Sometimes the answer does not match the
 
 Previously only Gemini has 1M context length, now deepseek also offers its 1M context model so now we can compare.
 
-###Results: 
+Also includes some agent-based methods. Although they currently perform worse than model-based methods due to overlap and missing memory between sessions. 
+
+# Results: 
 
 # Season 1: 20 problems. 
 
