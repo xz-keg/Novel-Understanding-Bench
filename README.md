@@ -15,6 +15,8 @@ Also includes some agent-based methods. Although they currently perform worse th
 
 # Model-based methods:
 
+Gemini 3.1 Pro: 15
+
 Gemini 3 Pro: 12
 
 Deepseek V4 Lite: 10
@@ -30,6 +32,7 @@ Manus: 1
 Minimax 2.5 agent: 0
 
 Kimi 2.5 Agent Swarm: 0
+
 
 
 
