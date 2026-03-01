@@ -17,9 +17,11 @@ Also includes some agent-based methods. Although they currently perform worse th
 
 Gemini 3.1 Pro: 15
 
+Deepseek V4 Lite(20260228): 12
+
 Gemini 3 Pro: 12
 
-Deepseek V4 Lite: 10
+Deepseek V4 Lite(20260211): 10
 
 Gemini 3 Flash: 9
 
