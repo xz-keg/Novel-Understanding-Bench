@@ -13,7 +13,7 @@ Also includes some agent-based methods. Although they currently perform worse th
 
 # Season 1: 20 problems. 
 
-# Model-based methods:
+# Model-based methods(high thinking enabled):
 
 Gemini 3.1 Pro: 15
 
@@ -25,7 +25,18 @@ Deepseek V4 Lite(20260211): 10
 
 Gemini 3 Flash: 9
 
+Claude 4.6 Opus: 7
+
 Gemini 2.5 Pro: 5
+
+# Model Extension methods:
+
+Gemini 3 Deepthink: 13
+
+GPT 5.4 Pro (extended thinking): 9
+
+GPT 5.4 Pro (normal thinking): 6
+
 
 # Agent-based methods:
 
