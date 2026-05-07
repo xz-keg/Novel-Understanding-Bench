@@ -23,13 +23,7 @@ Deepseek V4 Pro: 13
 
 Deepseek V4 Lite: 12
 
-Gemini 3 Pro: 12
-
-Gemini 3 Flash: 9
-
-Claude 4.6 Opus: 7
-
-Gemini 2.5 Pro: 5
+Claude 4.6 Opus thinking: 7
 
 # Model Extension methods:
 
@@ -45,8 +39,6 @@ GPT 5.4 Pro (normal thinking): 6
 # Agent-based methods:
 
 Kimi 2.6 Agent Swarm: 5
-
-Manus: 1
 
 Minimax 2.5 agent: 0
 
