@@ -2,47 +2,36 @@
 
 personal benchmark on Evaluating Long(1 million) Context Understanding Using Long Novel Comprehension
 
-Analyse novel(=new) novels. Problems are designed as soon as new chapters are released. Context Length=500-1000k.
-Manual Evaluation for personal interest. Sometimes the answer does not match the default correct answer but the model includes more detailed conditions, this will be viewed as "correct".
+Analyse novel(=new) novels. Problems are designed as soon as new chapters are released. 
+Context Length=400-700k 
 
-Previously only Gemini has 1M context length, now deepseek also offers its 1M context model so now we can compare.
-
-Also includes some agent-based methods. Although they currently perform worse than model-based methods due to overlap and missing memory between sessions. 
+Use one novel per season with 20 new problems. 
 
 # Results: 
 
-# Season 1: 20 problems. 
+# Season 2: 20 problems. 
 
-# Model-based methods(high thinking enabled):
+# Model-based methods(highest thinking enabled):
 
-Deepseek V4 Pro(Max): 17
+Claude Fable 5: 14
 
-Gemini 3.1 Pro: 15
+Deepseek V4 Pro: 12
 
-Deepseek V4 Pro: 13
+Gemini 3.1 Pro: 12
 
-Deepseek V4 Lite: 12
+GLM 5.2: 11
 
-Claude 4.6 Opus thinking: 7
+GPT 5.5: 8
+
+Qwen 3.7 Max: 8
+
 
 # Model Extension methods:
 
-GPT 5.5 Pro (extended thinking): 16
-
-Gemini 3 Deepthink: 13
-
-GPT 5.4 Pro (extended thinking): 9
-
-GPT 5.4 Pro (normal thinking): 6
+GPT 5.5 Pro (extended thinking): 11
 
 
-# Agent-based methods:
 
-Kimi 2.6 Agent Swarm: 5
-
-Minimax 2.5 agent: 0
-
-Kimi 2.5 Agent Swarm: 0
 
 
 

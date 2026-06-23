@@ -1,0 +1,24 @@
+# Model-based methods(highest possible thinking enabled):
+
+Deepseek V4 Pro: 17
+
+Gemini 3.1 Pro: 15
+
+Claude 4.6 Opus thinking: 7
+
+
+# Model Extension methods:
+
+GPT 5.5 Pro (extended thinking): 16
+
+Gemini 3 Deepthink: 13
+
+GPT 5.4 Pro (extended thinking): 9
+
+
+# Agent-based methods:
+
+Kimi 2.6 Agent Swarm: 5
+
+Minimax 2.5 agent: 0
+
