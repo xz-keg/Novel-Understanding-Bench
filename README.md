@@ -8,7 +8,7 @@ Context Length=400-700k
 Use one novel per season with 20 new problems. We only display scoring (1 pass), answers are released after the next season starts. 
 
 
-# Current Season: Season 2: 20 problems. 
+# Current Season: Season 2: 20 problems. Website: [https://novel-understanding.top]
 
 # Model-based methods(highest thinking enabled):
 
