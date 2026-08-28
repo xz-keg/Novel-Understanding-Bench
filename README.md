@@ -14,9 +14,13 @@ Use one novel per season with 20 new problems. We only display scoring (1 pass),
 
 Claude Fable 5: 14
 
-Deepseek V4 Flash 0731: 14
+Deepseek V4 Flash 0731: 12
 
-Deepseek V4 Pro: 12
+Deepseek V4 Flash 0424: 3
+
+Deepseek V4 Pro 0813: 12
+
+Deepseek V4 Pro 0424: 12
 
 Gemini 3.1 Pro: 12
 
@@ -24,7 +28,11 @@ Claude Opus 5: 10
 
 Kimi K3: 9
 
+GLM 5.3: 13
+
 GLM 5.2: 9
+
+GLM 5.3 Flash: 8
 
 GPT 5.5: 8
 
@@ -32,19 +40,16 @@ Qwen 3.7 Max: 8
 
 Qwen 3.8 Max: 6
 
+Muse Spark 1.2: 2
 
-# Model Extension methods:
+MiniMax M3: 1
 
-GPT 5.5 Pro (extended thinking): 11
+Mimo V2.5 Pro: 1
 
-GPT 5.6 Sol Pro: 11
+GPT 5.6 Sol: 12
 
-K3 Agent Swarm: 12
+GPT 5.6 Terra: 9
 
+GPT 5.6 Luna: 9
 
-
-
-
-
-
-
+Deepseek V4 Flash Vision Exp: 10
