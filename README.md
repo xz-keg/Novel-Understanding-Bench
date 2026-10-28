@@ -24,6 +24,8 @@ Deepseek V4 Flash 0731: 12
 
 Deepseek V4.1 Flash: 14
 
+Deepseek V4.1 Flash 1017: 15
+
 Deepseek V4 Flash 0424: 3
 
 Deepseek V4 Pro 0813: 12
@@ -36,9 +38,13 @@ Gemini 3.7 Flash: 12
 
 Gemini 3.8 Flash: 16
 
+Gemini 4 Argon: 18
+
 Claude Opus 5: 10
 
 Kimi K3: 9
+
+Kimi K3.1 Pro: 16
 
 GLM 5.3: 13
 
@@ -52,11 +58,17 @@ Qwen 3.7 Max: 8
 
 Qwen 3.8 Max: 6
 
+Qwen 3.8 Max 0902: 8
+
 Muse Spark 1.2: 2
 
 Muse Spark 1.3: 15
 
+Muse Wonder 1.0: 16
+
 MiniMax M3: 1
+
+MiniMax M3.1 Flash: 5
 
 Mimo V2.5 Pro: 1
 

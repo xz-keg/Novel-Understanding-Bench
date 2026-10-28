@@ -2,7 +2,15 @@
 
 Deepseek V4 Pro: 17
 
+Deepseek V4 Flash: 14
+
 Gemini 3.1 Pro: 15
+
+Gemini 3 Pro: 12
+
+Gemini 2.5 Pro: 5
+
+Gemini 3 Flash: 9
 
 Claude 4.6 Opus thinking: 7
 

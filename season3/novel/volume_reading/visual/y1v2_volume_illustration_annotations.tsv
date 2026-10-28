@@ -1,0 +1,11 @@
+local_path	volume	sequence	character_ids	scene_card_id	evidence_level	evidence_scope	cautions
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_04.jpg	Y1V2	04	sakura;sudo;unknown	SC-Y1V2-01	E1_scene_bound	identity;visible_action;school_uniform;corridor_setting;post_conflict_pose;foreground_observer	只支持佐仓在前景目击、须藤站立及画面中有受伤或被裁切男生的战后构图
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_05.jpg	Y1V2	05	kushida;ike	SC-Y1V2-06	E1_scene_bound	identity;fantasy_visualization;imagined_contact;comic_effects	
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_06.jpg	Y1V2	06	horikita;sakura	SC-Y1V2-09	E1_scene_bound	identity;composite_panel;school_uniform;visible_expression	只支持堀北与佐仓的身份、制服和分格式表情构图
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_07.jpg	Y1V2	07	sakura	SC-Y1V2-09	E1_scene_bound	identity;school_uniform;eyeglasses;seated_pose;classroom	只支持栉田初次追问目击者时佐仓戴眼镜坐在教室座位上的外观与姿势
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_08.jpg	Y1V2	08	ayanokouji;kushida	SC-Y1V2-13	E1_scene_bound	identity;casual_clothing;shopping_center;arm_hold_pose;standing_proximity	只支持周日陪佐仓维修相机时清隆与栉田的便服、购物中心环境和挽臂式构图
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_09.jpg	Y1V2	09	ayanokouji;ichinose	SC-Y1V2-14	E1_scene_bound	identity;school_uniform;smartphone;standing_proximity;visible_expression	只支持一之濑持手机靠近清隆、两人穿一年级制服的可见构图
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_10.jpg	Y1V2	10	horikita	SC-Y1V2-15	E1_scene_bound	identity;school_uniform;seated_pose;visible_expression	只支持得知清隆周日与栉田、佐仓外出后堀北的坐姿与异常表情
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_11.jpg	Y1V2	11	sakura	SC-Y1V2-17	E1_scene_bound	identity;in_universe_photo;shizuku_persona;visible_costume;pose	
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_12.jpg	Y1V2	12	sakura	SC-Y1V2-18	E1_scene_bound	identity;visible_action;school_uniform;testimony_pose;visible_expression	只支持首次审议中佐仓穿校服、正面作证时的可见姿势与表情
+illustrations/references/original/volume_illustrations/y1v02/monochrome/y1v02_13.jpg	Y1V2	13	ayanokouji;horikita	SC-Y1V2-21	E1_scene_bound	identity;school_uniform;corridor_setting;foreground_background;relative_pose	只支持结案后清隆在前景离开、堀北位于后方走廊的身份、制服和相对位置

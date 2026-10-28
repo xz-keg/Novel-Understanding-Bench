@@ -1,0 +1,11 @@
+local_path	volume	sequence	character_ids	scene_card_id	evidence_level	evidence_scope	cautions
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_04.jpg	V0	04	ayanokouji	SC-V0-02	E1_scene_bound	identity;infant_clothing;medical_bed;monitoring_equipment;supine_pose	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_05.jpg	V0	05	ayanokouji_father;mika	SC-V0-28	E1_scene_bound	identity;adult_suit;departing_figure;standing_pose;foreground_background_composition;visible_expression	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_06.jpg	V0	06	yuki_white_room	SC-V0-37	E1_scene_bound	identity;white_room_clothing;standing_pose;raised_hand;smile;visible_expression	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_07.jpg	V0	07	sakayanagi;chairman_sakayanagi	SC-V0-45	E1_scene_bound	identity;child_clothing;adult_suit;hat;cane_context;support_pose;raised_hands;visible_expression	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_08.jpg	V0	08	ayanokouji;yuki_white_room	SC-V0-46	E1_scene_bound	identity;white_room_clothing;clinging_pose;standing_proximity;tears;visible_expression	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_09.jpg	V0	09	ayanokouji;shiro_white_room	SC-V0-48	E1_scene_bound	identity;martial_arts_clothing;arm_grip;standing_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_10.jpg	V0	10	ayanokouji	SC-V0-49	E1_scene_bound	identity;white_room_clothing;standing_pose;downed_adults;training_room;scale_contrast	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_11.jpg	V0	11	ayanokouji_father;ishigami;ishigami_father	SC-V0-60	E1_scene_bound	identity;formal_clothing;child_suit;wine_glass;hand_on_shoulder;standing_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_12.jpg	V0	12	ayanokouji;yuki_white_room	SC-V0-65	E1_scene_bound	identity;clinic_clothing;reaching_pose;standing_distance;visible_expression	
+illustrations/references/original/volume_illustrations/v0/monochrome/v0_13.jpg	V0	13	ayanokouji_father;ayanokouji	SC-V0-66	E1_scene_bound	identity;adult_suit;casual_shirt;car_back_seat;seated_distance;averted_gazes;visible_expression	

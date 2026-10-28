@@ -1,0 +1,7 @@
+local_path	volume	sequence	character_ids	scene_card_id	evidence_level	evidence_scope	cautions
+illustrations/references/original/volume_illustrations/y1v07_5/monochrome/y1v07_5_05.jpg	Y1V7.5	05	ayanokouji;ibuki	SC-Y1V7.5-07	E1_scene_bound	identity;casual_clothing;cinema_setting;seated_proximity;armrest;visible_expression	只支持清隆与伊吹在电影院相邻座位、便服、扶手接触范围与可见表情
+illustrations/references/original/volume_illustrations/y1v07_5/monochrome/y1v07_5_06.jpg	Y1V7.5	06	ryuuen	SC-Y1V7.5-13	E1_scene_bound	identity;facial_injury;winter_coat;snowy_park;bench_pose;visible_expression	只支持龙园带伤坐在雪地公园长椅、冬装与可见神情
+illustrations/references/original/volume_illustrations/y1v07_5/monochrome/y1v07_5_07.jpg	Y1V7.5	07	ayanokouji	SC-Y1V7.5-13	E1_scene_bound	identity;winter_coat;snowy_park;bench_pose;visible_expression	只支持清隆在同次雪地公园长椅会面的冬装、坐姿与可见神情
+illustrations/references/original/volume_illustrations/y1v07_5/monochrome/y1v07_5_08.jpg	Y1V7.5	08	horikita;kushida	SC-Y1V7.5-16	E1_scene_bound	identity;casual_clothing;cafe_setting;seated_pose;standing_pose;relative_pose	只支持堀北与栉田在咖啡厅同场、便服、姿势和相对位置
+illustrations/references/original/volume_illustrations/y1v07_5/monochrome/y1v07_5_09.jpg	Y1V7.5	09	sakura	SC-Y1V7.5-17	E1_scene_bound	identity;casual_clothing;eyeglasses;gift_bag;doorway_setting;visible_expression	只支持佐仓戴眼镜、穿便服、在清隆房门口递出包装礼物及可见表情
+illustrations/references/original/volume_illustrations/y1v07_5/monochrome/y1v07_5_10.jpg	Y1V7.5	10	sato;ayanokouji;kei	SC-Y1V7.5-20	E1_scene_bound	identity;casual_clothing;walking_proximity;visible_expression;stylized_cupid_overlay	只支持佐藤与清隆在双重约会中并行及画面上象征性的丘比特惠

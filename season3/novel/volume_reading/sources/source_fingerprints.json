@@ -1,0 +1,59 @@
+{
+  "line_numbering": "Python str.splitlines(); blank lines count",
+  "sources": [
+    {
+      "path": "ss.txt",
+      "sha256": "163584c312880dfcbb3d23a02b4abedf77baac763d5d3c8d1c978c8115d08c2c",
+      "characters": 230005,
+      "physical_lines": 15053
+    },
+    {
+      "path": "y1v1_y1v4.5.txt",
+      "sha256": "cfbbc0e68cf3f10ee7c5df33c84a226bc54a5688413ec4d5ec5c736f211c5247",
+      "characters": 712054,
+      "physical_lines": 36393
+    },
+    {
+      "path": "y1v5_y1v8.txt",
+      "sha256": "266ce11d80c5f2470d4848e5118596c5693f7398557407b571aeb45e128ba2e5",
+      "characters": 656295,
+      "physical_lines": 36986
+    },
+    {
+      "path": "y1v9_y1v11.5.txt",
+      "sha256": "97d82fa03f24f6eeee908279853a5da205770b0ad0dfcb8d8cd7251d5dade151",
+      "characters": 547659,
+      "physical_lines": 35823
+    },
+    {
+      "path": "y2v12_y3v4.txt",
+      "sha256": "e56082535f9c5d72f5aa96af95a8ee92bff5168238722740a8069f2cd2e134d6",
+      "characters": 683089,
+      "physical_lines": 35208
+    },
+    {
+      "path": "y2v1_y2v4.txt",
+      "sha256": "a252065fbd2a13fe588e8bb06aefba13853c2048d81c710626b80ff8b21c1dd5",
+      "characters": 582889,
+      "physical_lines": 33683
+    },
+    {
+      "path": "y2v4.5_y2v7.txt",
+      "sha256": "3c6ad2f0a7b5d4b6b58a8b9012ff69665f3909ebde0375fdb5dbd9d5712aa221",
+      "characters": 540034,
+      "physical_lines": 25296
+    },
+    {
+      "path": "y2v8_y2v11.txt",
+      "sha256": "8fd82861ec97ece1dd41e3f0baf68ff0fdc5e91c52008519cb67991999b3485d",
+      "characters": 698401,
+      "physical_lines": 50870
+    },
+    {
+      "path": "y3v5.txt",
+      "sha256": "c4a0c727f3a381cf582456c1c0d6e6efc9b0d14243d1e68d1bef838b2ea84edf",
+      "characters": 115182,
+      "physical_lines": 3804
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+local_path	volume	sequence	character_ids	scene_card_id	evidence_level	evidence_scope	cautions
+illustrations/references/original/volume_illustrations/y1v11_5/color/y1v11_5_03.jpg	Y1V11.5	03	ayanokouji;horikita	SC-Y1V11.5-25	E1_scene_bound	identity;school_uniform;standing_proximity;back_to_back_pose;visible_expression	只支持清隆与长发铃音当下的制服、相对位置与“不要回头”交流
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_05.jpg	Y1V11.5	05	sakayanagi	SC-Y1V11.5-07	E1_scene_bound	identity;school_uniform;hat;cane;armchair;seated_pose	只支持坂柳进入会客室后的制服、帽子、手杖与就座姿势
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_06.jpg	Y1V11.5	06	nagumo;manabu	SC-Y1V11.5-10	E1_scene_bound	identity;school_uniform;handshake;standing_pose;relative_position	
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_07.jpg	Y1V11.5	07	hirata	SC-Y1V11.5-12	E1_scene_bound	identity;school_uniform;standing_pose;visible_smile	只支持平田在谈话时的制服、站姿与可见笑容
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_08.jpg	Y1V11.5	08	hiyori	SC-Y1V11.5-16	E1_scene_bound	identity;casual_clothing;cafe_setting;seated_pose;closed_eye_smile;drink_on_table	
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_09.jpg	Y1V11.5	09	ryuuen;hashimoto;kanzaki	SC-Y1V11.5-29	E1_scene_bound	identity;school_uniform;washroom_setting;three_person_standing;relative_position	
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_10.jpg	Y1V11.5	10	ichinose	SC-Y1V11.5-34	E1_scene_bound	identity;school_uniform;rain;wet_clothing;visible_distress	只支持一之濑在雨中淋湿、制服和可见痛苦状态
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_11.jpg	Y1V11.5	11	manabu;horikita	SC-Y1V11.5-43	E1_scene_bound	identity;school_uniform;sibling_embrace;short_hair;visible_tears	只支持堀北学与短发铃音告别时拥抱及可见情绪
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_12.jpg	Y1V11.5	12	horikita	SC-Y1V11.5-45	E1_scene_bound	identity;school_uniform;short_hair;tears;visible_expression	只支持短发铃音独自落泪与可见表情
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_13.jpg	Y1V11.5	13	matsushita	SC-Y1V11.5-53	E1_scene_bound	identity;casual_clothing;concealed_observation;wall_edge;visible_pose	画面只见松下在墙边藏身尾随
+illustrations/references/original/volume_illustrations/y1v11_5/monochrome/y1v11_5_14.jpg	Y1V11.5	14	ayanokouji;kei	SC-Y1V11.5-64	E1_scene_bound	identity;casual_clothing;embrace;visible_contact;relative_pose	只支持清隆与惠告白后拥抱、便服与相对姿势

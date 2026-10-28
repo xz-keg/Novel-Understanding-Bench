@@ -1,0 +1,14 @@
+local_path	volume	sequence	character_ids	scene_card_id	evidence_level	evidence_scope	cautions
+illustrations/references/original/volume_illustrations/y2v06/color/y2v06_01.jpg	Y2V6	01	amasawa	SC-Y2V6-15	E1_scene_bound	identity;school_uniform;bedside_search;leaning_pose;visible_expression;dialogue_overlay	
+illustrations/references/original/volume_illustrations/y2v06/color/y2v06_02.jpg	Y2V6	02	amasawa;nanase	SC-Y2V6-29	E1_scene_bound	identity;sportswear;volleyball;split_composition;athletic_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/color/y2v06_03.jpg	Y2V6	03	sakayanagi	SC-Y2V6-31	E1_scene_bound	identity;casual_clothing;bed_seated_pose;mont_blanc;fork;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_04.jpg	Y2V6	04	ichinose	SC-Y2V6-03	E1_scene_bound	identity;school_uniform;lunch_box;chopsticks;seated_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_05.jpg	Y2V6	05	chabashira;horikita	SC-Y2V6-10	E1_scene_bound	identity;teacher_suit;school_uniform;shoulder_touch;standing_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_06.jpg	Y2V6	06	horikita;kushida	SC-Y2V6-13	E1_scene_bound	identity;casual_clothing;mutual_cheek_pinch;composite_panel;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_07.jpg	Y2V6	07	kei;wang_meiyu	SC-Y2V6-14	E1_scene_bound	identity;casual_clothing;dorm_corridor;passing_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_08.jpg	Y2V6	08	hasebe	SC-Y2V6-17	E1_scene_bound	identity;school_uniform;cafe_seated_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_09.jpg	Y2V6	09	tsubaki	SC-Y2V6-22	E1_scene_bound	identity_postidentified;school_uniform;corridor_wall;standing_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_10.jpg	Y2V6	10	nagumo	SC-Y2V6-26	E1_scene_bound	identity;sportswear;standing_pose;side_profile;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_11.jpg	Y2V6	11	sudo;onodera	SC-Y2V6-30	E1_scene_bound	identity;sportswear;embrace;standing_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_12.jpg	Y2V6	12	sakayanagi	SC-Y2V6-31	E1_scene_bound	identity;casual_clothing;lying_on_bed;raised_arms;visible_expression	
+illustrations/references/original/volume_illustrations/y2v06/monochrome/y2v06_13.jpg	Y2V6	13	miyake;hasebe	SC-Y2V6-34	E1_scene_bound	identity;school_uniform;outdoor_walk;foreground_background;back_view;visible_expression	

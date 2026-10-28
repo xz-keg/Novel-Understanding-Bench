@@ -1,0 +1,14 @@
+local_path	volume	sequence	character_ids	scene_card_id	evidence_level	evidence_scope	cautions
+illustrations/references/original/volume_illustrations/y2v09/color/y2v09_01.jpg	Y2V9	01	ichinose	SC-Y2V9-34	E1_scene_bound	identity;winter_clothing;umbrella;waving_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/color/y2v09_02.jpg	Y2V9	02	ichinose;ayanokouji	SC-Y2V9-50	E1_scene_bound	identity;school_uniform;face_touch;room_setting;seated_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/color/y2v09_03.jpg	Y2V9	03	ryuuen;ichinose	SC-Y2V9-63	E1_scene_bound	identity;winter_clothing;umbrella;rainy_setting;standing_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_04.jpg	Y2V9	04	nagumo;kiriyama	SC-Y2V9-06	E1_scene_bound	identity;school_uniform;student_council_room;seated_standing_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_05.jpg	Y2V9	05	amasawa;kushida	SC-Y2V9-14	E1_scene_bound	identity;school_uniform;cheek_poke;standing_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_06.jpg	Y2V9	06	ishigami	SC-Y2V9-17	E1_scene_bound	identity;school_uniform;turning_away;standing_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_07.jpg	Y2V9	07	himeno	SC-Y2V9-31	E1_scene_bound	identity;winter_clothing;night_road;walking_pose;back_view	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_08.jpg	Y2V9	08	amikura;ichinose	SC-Y2V9-35	E1_scene_bound	identity;sportswear;treadmills;running_pose;standing_proximity;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_09.jpg	Y2V9	09	asahina	SC-Y2V9-43	E1_scene_bound	identity;school_uniform;tears;flower_hair_accessory;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_10.jpg	Y2V9	10	kiryuin	SC-Y2V9-52;SC-Y2V9-53	E1_scene_bound	identity;school_uniform;entering_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_11.jpg	Y2V9	11	nanase	SC-Y2V9-53;SC-Y2V9-54	E1_scene_bound	identity;school_uniform;notebook;standing_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_12.jpg	Y2V9	12	kei	SC-Y2V9-61	E1_scene_bound	identity;school_uniform;smartphone;standing_pose;visible_expression	
+illustrations/references/original/volume_illustrations/y2v09/monochrome/y2v09_13.jpg	Y2V9	13	ichinose	SC-Y2V9-62	E1_scene_bound	identity;casual_clothing;standing_pose;visible_expression	
