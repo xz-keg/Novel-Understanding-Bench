@@ -2,94 +2,29 @@
 
 personal benchmark on Evaluating Extremely Long(up to 1 million) Context Understanding Using Long Novel Comprehension
 
+# Season 1-2: NUB-1M
 Analyse novel(=new) novels. Problems are designed as soon as new chapters are released. 
+
 Context Length=400-700k 
 
 Use one novel per season with 20 new problems. We only display scoring (1 pass), answers are released after the next season starts. 
 
+# Season 3: NUB-5M
 
-# Latest Season: Season 2: 20 problems. Website: [https://novel-understanding.top]
+The ~5M token full novel is separated into pieces with novel cards provided. The agent needs to answer the 15 problems(extremely difficult) with agents. The agent cannot edit/write in the directory, they can only read. 
+Highest reasoning effort is enabled. 
 
-# Model-based methods(highest thinking enabled):
+# Latest Season: Season 3: 15 problems. Website: [https://novel-understanding.top]
 
-Claude Fable 5: 14
+GPT 6 Astra(codex): 2
 
-Claude Fable 5.1: 16
+Gemini 4 Argon(devin): 2
 
-Claude Opus 5.5: 18
+Claude Opus 5.5(devin): 1
 
-Claude Sonnet 5.5: 14
+GPT 6.1 sol(codex): 1
 
-Deepseek V4 Flash 0731: 12
+Deepseek V4.1 Flash 1017(deepseek harness): 0
 
-Deepseek V4.1 Flash: 14
+GLM 5.3(zcode): 0
 
-Deepseek V4.1 Flash 1017: 15
-
-Deepseek V4 Flash 0424: 3
-
-Deepseek V4 Pro 0813: 12
-
-Deepseek V4 Pro 0424: 12
-
-Gemini 3.1 Pro: 12
-
-Gemini 3.7 Flash: 12
-
-Gemini 3.8 Flash: 16
-
-Gemini 4 Argon: 18
-
-Claude Opus 5: 10
-
-Kimi K3: 9
-
-Kimi K3.1 Pro: 16
-
-GLM 5.3: 13
-
-GLM 5.2: 9
-
-GLM 5.3 Flash: 8
-
-GPT 5.5: 8
-
-Qwen 3.7 Max: 8
-
-Qwen 3.8 Max: 6
-
-Qwen 3.8 Max 0902: 8
-
-Muse Spark 1.2: 2
-
-Muse Spark 1.3: 15
-
-Muse Wonder 1.0: 16
-
-MiniMax M3: 1
-
-MiniMax M3.1 Flash: 5
-
-Mimo V2.5 Pro: 1
-
-Mimo V2.6 Pro: 5
-
-GPT 5.6 Sol: 12
-
-GPT 6 Astra: 17
-
-GPT 6.1 Sol: 17
-
-GPT 5.6 Terra: 9
-
-GPT 5.6 Luna: 9
-
-GPT 6 Sol: 9
-
-GPT 6 Luna: 2
-
-Deepseek V4 Flash Vision Exp: 10
-
-Hy4 Preview: 10
-
-Step 5 Preview: 6
