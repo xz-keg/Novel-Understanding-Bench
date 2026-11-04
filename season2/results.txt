@@ -70,6 +70,8 @@ GPT 6 Astra: 17
 
 GPT 6.1 Sol: 17
 
+GPT 6.1 Terra: 16
+
 GPT 5.6 Terra: 9
 
 GPT 5.6 Luna: 9

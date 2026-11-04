@@ -20,11 +20,22 @@ GPT 6 Astra(codex): 2
 
 Gemini 4 Argon(devin): 2
 
+Hy4(workbuddy): 1
+
+Kimi K3.1 Pro(deepseek harness): 1
+
 Claude Opus 5.5(devin): 1
 
+Claude Fable 5.1(deepseek harness): 1
+
 GPT 6.1 sol(codex): 1
+
+Muse Wonder 1.0(devin): 0
+
+Grok 4.7(deepseek harness): 0
 
 Deepseek V4.1 Flash 1017(deepseek harness): 0
 
 GLM 5.3(zcode): 0
 
+SWE-2(devin): 0
