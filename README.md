@@ -20,6 +20,12 @@ GPT 6 Astra(codex): 2
 
 Gemini 4 Argon(devin): 2
 
+Gemini 4 Carbon(droid): 1
+
+Gemini 4 Hydrogen(droid): 1
+
+Mistral Large 4(deepseek harness): 1
+
 Hy4(workbuddy): 1
 
 Kimi K3.1 Pro(deepseek harness): 1
@@ -28,7 +34,17 @@ Claude Opus 5.5(devin): 1
 
 Claude Fable 5.1(deepseek harness): 1
 
+Claude Fable 5.2(devin): 1
+
 GPT 6.1 sol(codex): 1
+
+GPT 6.2 astra(codex): 1
+
+GPT 6.2 sol(codex): 1
+
+Ernie 5.5 Flash(deepseek harness): 0
+
+Qwen 4 Max Preview(qoder): 0
 
 Muse Wonder 1.0(devin): 0
 
