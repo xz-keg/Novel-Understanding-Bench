@@ -1,6 +1,6 @@
-# 1M Novel Understanding Bench(NUB-1M)
+# Novel Understanding Bench(NUB-1M)
 
-personal benchmark on Evaluating Extremely Long(up to 1 million) Context Understanding Using Long Novel Comprehension
+personal benchmark on Evaluating Extremely Long(up to 5 million) Context Understanding Using Long Novel Comprehension
 
 # Season 1-2: NUB-1M
 Analyse novel(=new) novels. Problems are designed as soon as new chapters are released. 
