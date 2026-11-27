@@ -40,7 +40,7 @@ Claude Fable 5.2(devin): 1
 
 GPT 6.1 Sol(codex): 1
 
-GPT 6.2 Astra(codex): 1
+GPT 6.2 Astra(opencode omo slim): 2
 
 GPT 6.2 Sol(codex): 1
 
@@ -59,5 +59,7 @@ GLM 5.3(zcode): 0
 GLM 5.4(zcode): 0
 
 SWE-2(devin): 0
+
+SWE-2.1(devin): 0
 
 Test are done on multiple harnesses and report the best harness for each model.(If there are more than one, we randomly select one of them. )
